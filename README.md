@@ -6,3 +6,5 @@ user0@user.com
 login to test admin session:
 admin@admin.com
 12345678
+
+database is included inside the project--
