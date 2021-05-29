@@ -1,4 +1,4 @@
-# WF-BackEnd-6
+# PaintOfHeart is a full E-commerce site without any framework(OOP)
 login to test user session:
 user0@user.com
 12345678
